@@ -163,36 +163,42 @@
         "ebc02591-8614-4adc-8e70-be0ddd908089-16788456319f16ae0c-0": {
           "type": "item_policy",
           "settings": {
+            "policy_icon": "shopify://shop_images/icon-1_200x_6c2d914f-a7bd-4904-81fe-f25929244ec2.webp",
             "title_policy": "ZIPPER",
             "sub_policy": "",
             "desc_policy": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan",
             "mw": 300,
             "tl": "",
             "link": "",
+            "bg_image": "shopify://shop_images/img-1_650x_5bcac3ef-bf90-45b8-8866-9342f62e17a6.webp",
             "class": ""
           }
         },
         "ebc02591-8614-4adc-8e70-be0ddd908089-16788456319f16ae0c-1": {
           "type": "item_policy",
           "settings": {
+            "policy_icon": "shopify://shop_images/icon-2_200x_b1ba1737-ebb5-4020-bdfc-de966e975039.webp",
             "title_policy": "MATERIAL",
             "sub_policy": "",
             "desc_policy": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan",
             "mw": 300,
             "tl": "",
             "link": "",
+            "bg_image": "shopify://shop_images/img-2_650x_36325073-2a89-492a-a37f-995cd51c6491.jpg",
             "class": ""
           }
         },
         "ebc02591-8614-4adc-8e70-be0ddd908089-16788456319f16ae0c-2": {
           "type": "item_policy",
           "settings": {
+            "policy_icon": "shopify://shop_images/icon-3_200x_777d2cbe-5b9b-4124-ad75-12a142848c25.webp",
             "title_policy": "SHOULDER STRAPS",
             "sub_policy": "",
             "desc_policy": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan",
             "mw": 300,
             "tl": "",
             "link": "",
+            "bg_image": "shopify://shop_images/img-3_650x_4d9bc08b-0fb9-495b-96bd-cd62cec229a0.webp",
             "class": ""
           }
         }
