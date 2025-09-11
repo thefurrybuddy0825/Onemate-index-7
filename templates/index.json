@@ -422,11 +422,17 @@
         "600fd620-1415-4a66-aaf4-64bce5bd7f66": {
           "type": "policy",
           "settings": {
+            "icon1": "shopify://shop_images/icon-4_75x_14990dce-605a-4aa8-89cf-3a103c6bdf9f.webp",
             "d1": "<p>Easy-to-use rope closure allows for quick access</p>",
+            "icon2": "shopify://shop_images/icon-5_75x_fcda7944-e7fc-46ab-ae49-73a447d32a76.png",
             "d2": "<p>Support laptop 17 inch</p>",
+            "icon3": "shopify://shop_images/icon-6_75x_30d0b002-bbf0-4c79-8585-f8fa78057ce5.webp",
             "d3": "<p>Side zipper compartments let you secure small items and stay organized</p>",
+            "icon4": "shopify://shop_images/icon-7_75x_716d18fa-30f6-4db4-9fc6-a605ab065c32.png",
             "d4": "<p>USB TypeC Port & Headset  Port Design</p>",
+            "icon5": "shopify://shop_images/icon-8_75x_fd3d5b4e-2e13-4d46-b743-068d3575e8a7.webp",
             "d5": "<p>Adjustable shoulder straps are  padded for a comfortable feel.</p>",
+            "icon6": "shopify://shop_images/icon-9_75x_cb9341a4-7481-41b6-b18b-6264faeb25c8.webp",
             "d6": "<p>Water Resistance</p>",
             "bg_icon": "#f0f0f0",
             "c_d": "#222222",
