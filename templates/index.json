@@ -582,6 +582,7 @@
     "5de8ccd6-f764-41a3-a0df-472a9d148c8c": {
       "type": "nov-video",
       "settings": {
+        "video": "shopify://files/videos/c6c9fece841e4d4292350d0cabe41e8a.SD-480p-1.5Mbps-13085535.mp4",
         "autoplay": true,
         "muted": true,
         "controls": false,
