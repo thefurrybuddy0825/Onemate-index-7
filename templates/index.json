@@ -645,11 +645,15 @@
       "blocks": {
         "44d39cfc-2613-4e0a-9545-b702ce9b3fce-16789395861c6ad74d-0": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/img-10_1200x_40539d8b-3266-4e9b-ba7a-84e92c417f24.webp"
+          }
         },
         "44d39cfc-2613-4e0a-9545-b702ce9b3fce-16789395861c6ad74d-1": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/img-11_1200x_4b726168-1c62-47e8-b321-04ac3cd8f489.webp"
+          }
         },
         "44d39cfc-2613-4e0a-9545-b702ce9b3fce-16789395861c6ad74d-2": {
           "type": "image",
